@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @polfpl
+- 👋 Hi, I’m @polfpl Paweł Firlej
 - 👀 I’m interested in QA Engineering
 - 🌱 I’m currently learning to become the QA Engineer 
 - 💞️ I’m looking to collaborate in that field
