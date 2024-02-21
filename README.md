@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @polfpl
 - 👀 I’m interested in QA Engineering
 - 🌱 I’m currently learning to become the QA Engineer 
-- 💞️ I’m looking to collaborate on that field
+- 💞️ I’m looking to collaborate in that field
 - 📫 How to reach me polf@polf.pl
 
 <!---
