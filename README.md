@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @polfpl Paweł Firlej
-- 👀 I’m interested in QA Engineering
-- 🌱 I’m currently learning to become the QA Engineer 
-- 💞️ I’m looking to collaborate in that field
-- 📫 How to reach me polf@polf.pl
+- 👀 I’m QA Engineer, Junior Manual Tester and Automation Tester in progress
+- 💞️ I’m looking to collaborate in the field of testing.
+- 📫 How to reach me: polf@polf.pl
 
 <!---
 polfpl/polfpl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
