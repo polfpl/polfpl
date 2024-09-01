@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @polfpl Paweł Firlej
-- 👀 I’m QA Engineer, Junior Manual Tester and Automation Tester
+- 👀 I’m QA Engineer, Junior Manual and Automation Tester
 - 💞️ I’m looking to collaborate in the field of testing.
 - 📫 How to reach me: polf@polf.pl
 
